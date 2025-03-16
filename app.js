@@ -1,5 +1,5 @@
 const API_KEY = '8e3f84fc'; 
-const API_URL = 'https://www.omdbapi.com';
+const API_URL = 'https://www.omdbapi.com/';
 
 let searchInput;
 let moviesContainer;
